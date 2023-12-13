@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dcjs-botfuncs": "^1.0.1",
+    "discord.js": "^14.14.1"
+  }
+}
